@@ -1,0 +1,6 @@
+{
+
+    "appEnvironment": "uat",    
+    "appId": "abc",
+    "envId": "#envVar1"
+}
