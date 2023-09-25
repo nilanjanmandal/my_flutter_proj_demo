@@ -57,9 +57,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  assets:
-    # - integration_test/e2eTestData.json
-    - integration_test_2/abc.txt
+  # assets:
+  #   # - integration_test/e2eTestData.json
+  #   - integration_test_2/abc.txt
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
